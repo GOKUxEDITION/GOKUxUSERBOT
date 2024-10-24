@@ -11,7 +11,7 @@ async def help_menu_logo(answer):
     if image:
         thumb_image = image
     else:
-        thumb_image = "https://te.legra.ph/file/11cfa74175b590014bd16.jpg"
+        thumb_image = "https://te.legra.ph/file/8a552f795414972ea1ba9.jpg"
     button = paginate_plugins(0, plugs, "help")
     answer.append(
         InlineQueryResultPhoto(
@@ -26,7 +26,7 @@ Branded Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/BRANDED_PAID_CC).**
+🌷Powered By : [GOKUxMODZ](https://t.me/GOKUxMODZ).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ Branded Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/BRANDED_PAID_CC).**""",
+🌷Powered By : [GOKUxMODZ](https://t.me/GOKUxMODZ).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
