@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
+    ──「 𝐆𝐎𝐊𝐔🇽𝐄𝐝𝐢𝐭𝐢𝐨𝐧 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
 <a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
@@ -9,12 +9,12 @@
     ──「 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
     
     
-「[𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗫 𝗞𝗜𝗡𝗚❤️💣](https://t.me/BRANDRD_BOT)」
+「[𝐆𝐎𝐊𝐔🇽𝐄𝐝𝐢𝐭𝐢𝐨𝐧❤️💣](https://t.me/GOKUxEDITION)」
 
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg">
+  <img src="[https://te.legra.ph/file/11cfa74175b590014bd16.jpg](https://te.legra.ph/file/9c5d0138224bd25f91d73.jpg)">
 </p>
 
 
@@ -47,7 +47,7 @@
 <h2>🌐 Updates & Support</h2>
 <p title="Support">You can join Genius-Userbot's official Telegram channel and group on Telegram for any Genius-Userbot updates and support-related issues.</p>
 
-- Telegram Channel: [**`@BRANDED_PAID_CC`**](https://t.me/BRANDED_PAID_CC)
+- Telegram Channel: [**`𝐆𝐎𝐊𝐔🇽𝐄𝐝𝐢𝐭𝐢𝐨𝐧`**](https://t.me/GOKUxMODZ)
 
 - 
 <h2>📑 Acknowledgement / Credits</h2>
