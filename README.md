@@ -2,7 +2,7 @@
     ──「 𝐆𝐎𝐊𝐔🇽𝐄𝐝𝐢𝐭𝐢𝐨𝐧 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
+<a href="https://github.com/GOKUxEDITION/GOKUxUSERBOT"><img src="https://te.legra.ph/file/9c5d0138224bd25f91d73.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
 </p>
 
 <h2 align="center">
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="[https://te.legra.ph/file/11cfa74175b590014bd16.jpg](https://te.legra.ph/file/9c5d0138224bd25f91d73.jpg)">
+  <img src="[https://te.legra.ph/file/9c5d0138224bd25f91d73.jpg](https://te.legra.ph/file/9c5d0138224bd25f91d73.jpg)">
 </p>
 
 
