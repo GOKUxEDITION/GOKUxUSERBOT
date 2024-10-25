@@ -68,7 +68,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "💥 Deploy Branded Userbot ✨",
-                            url=f"https://github.com/WCGKING/KINGUSERBOT"
+                            url=f"https://github.com/GOKUxEDITION/GOKUxUSERBOT"
                         )
                     ]
                 ]
@@ -78,11 +78,11 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
-                                title="🥀 Branded Userbot ✨",
-                                thumb_url=f"https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
-                                description=f"🌷 Deploy Your Own Branded-Userbot 🌿...",
-                                caption=f"<b>🥀 Welcome » To » Branded 🌷\n✅ Userbot {__version__} ✨...</b>",
+                                photo_url=f"https://graph.org/file/97572dbbe88b66d4cf704-306b156cb8010a89f3.jpg",
+                                title="🥀 Edition Userbot ✨",
+                                thumb_url=f"https://graph.org/file/97572dbbe88b66d4cf704-306b156cb8010a89f3.jpg",
+                                description=f"🌷 Deploy Your Own Edition-Userbot 🌿...",
+                                caption=f"<b>🥀 Welcome » To » Edition 🌷\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
                             )
                         )
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own Branded Userbot❗...\n\nRepo:** <i>https://github.com/WCGKING/KINGUSERBOT/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own Edition Userbot❗...\n\nRepo:** <i>https://github.com/GOKUxEDITION/GOKUxUSERBOT</i>||"
                                 ),
                             )
                         )
