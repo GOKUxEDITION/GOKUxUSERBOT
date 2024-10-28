@@ -52,7 +52,7 @@ PM_GUARD_LIMIT = int(getenv("PM_GUARD_LIMIT", 5))
 
 
 # USERBOT DEFAULT IMAGE
-USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://te.legra.ph/file/9c5d0138224bd25f91d73.jpg")
+USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://graph.org/file/e9755738f6486ac6c7eda-5d5fcae8a3818f4f87.jpg")
 
 
 
